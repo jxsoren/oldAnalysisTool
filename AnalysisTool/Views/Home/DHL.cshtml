@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model DHLinfo
+<div class="loader" id="loadingScreen" hidden></div>
+<form enctype="multipart/form-data" id="form" asp-action="DHLManifest" asp-controller="Home" method="post">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4">
+                <label class="text-body" asp-for="clientSecret">Client Secret</label>
+                <input asp-for="clientSecret" placeholder="" required type="text" class="form-control" />
+            </div>
+            <div class="col-sm-4">
+                <label class="text-body" asp-for="clientId">Client ID</label>
+                <input asp-for="clientId" placeholder="" required class="form-control" type="text" />
+            </div>
+            <div class="col-sm-4">
+                <label class="text-body" asp-for="pickup">Pickup Location</label>
+                <input asp-for="pickup" placeholder="" required class="form-control" type="text" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <input type="submit" class="w-100 btn btn-primary btn-lg" />
+            </div>
+        </div>
+    </div>
+</form>
+
+<script>
+    const form = document.getElementById('form');
+    const loadingScreen = document.getElementById('loadingScreen');
+
+    form.onsubmit = submit;
+
+    function submit() {
+        form.setAttribute('hidden', '');
+        loadingScreen.removeAttribute('hidden');
+    }</script>

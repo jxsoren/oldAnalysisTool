@@ -1,0 +1,782 @@
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/appsettings.json
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/AnalysisTool.staticwebassets.runtime.json
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/AnalysisTool.exe
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/AnalysisTool.deps.json
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/AnalysisTool.runtimeconfig.json
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/AnalysisTool.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/AnalysisTool.pdb
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authorization.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Server.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Web.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cors.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Features.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Results.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpLogging.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Identity.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Localization.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Metadata.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Razor.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Rewrite.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Routing.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Session.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.WebSockets.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.CSharp.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Json.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Features.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Hosting.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Http.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Identity.Core.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Localization.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Console.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Debug.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.ObjectPool.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.WebEncoders.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.JSInterop.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Net.Http.Headers.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.VisualBasic.Core.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.VisualBasic.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Win32.Primitives.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Win32.Registry.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/mscorlib.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/netstandard.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.AppContext.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Buffers.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Collections.Concurrent.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Collections.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Collections.Immutable.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Collections.NonGeneric.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Collections.Specialized.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.ComponentModel.Annotations.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.ComponentModel.DataAnnotations.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.ComponentModel.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.ComponentModel.EventBasedAsync.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.ComponentModel.Primitives.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.ComponentModel.TypeConverter.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Configuration.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Console.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Core.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Data.Common.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Data.DataSetExtensions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Data.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Diagnostics.Contracts.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Diagnostics.Debug.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Diagnostics.DiagnosticSource.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Diagnostics.EventLog.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Diagnostics.FileVersionInfo.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Diagnostics.Process.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Diagnostics.StackTrace.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Diagnostics.Tools.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Diagnostics.TraceSource.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Diagnostics.Tracing.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Drawing.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Drawing.Primitives.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Dynamic.Runtime.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Formats.Asn1.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Globalization.Calendars.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Globalization.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Globalization.Extensions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.IO.Compression.Brotli.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.IO.Compression.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.IO.Compression.FileSystem.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.IO.Compression.ZipFile.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.IO.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.IO.FileSystem.AccessControl.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.IO.FileSystem.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.IO.FileSystem.DriveInfo.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.IO.FileSystem.Primitives.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.IO.FileSystem.Watcher.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.IO.IsolatedStorage.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.IO.MemoryMappedFiles.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.IO.Pipelines.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.IO.Pipes.AccessControl.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.IO.Pipes.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.IO.UnmanagedMemoryStream.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Linq.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Linq.Expressions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Linq.Parallel.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Linq.Queryable.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Memory.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.Http.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.Http.Json.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.HttpListener.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.Mail.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.NameResolution.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.NetworkInformation.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.Ping.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.Primitives.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.Requests.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.Security.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.ServicePoint.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.Sockets.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.WebClient.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.WebHeaderCollection.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.WebProxy.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.WebSockets.Client.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.WebSockets.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Numerics.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Numerics.Vectors.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.ObjectModel.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Reflection.DispatchProxy.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Reflection.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Reflection.Emit.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Reflection.Emit.ILGeneration.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Reflection.Emit.Lightweight.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Reflection.Extensions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Reflection.Metadata.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Reflection.Primitives.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Reflection.TypeExtensions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Resources.Reader.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Resources.ResourceManager.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Resources.Writer.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Runtime.CompilerServices.VisualC.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Runtime.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Runtime.Extensions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Runtime.Handles.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Runtime.InteropServices.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Runtime.Intrinsics.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Runtime.Loader.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Runtime.Numerics.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Runtime.Serialization.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Runtime.Serialization.Formatters.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Runtime.Serialization.Json.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Runtime.Serialization.Primitives.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Runtime.Serialization.Xml.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Security.AccessControl.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Security.Claims.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Security.Cryptography.Algorithms.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Security.Cryptography.Cng.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Security.Cryptography.Csp.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Security.Cryptography.Encoding.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Security.Cryptography.OpenSsl.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Security.Cryptography.Primitives.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Security.Cryptography.X509Certificates.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Security.Cryptography.Xml.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Security.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Security.Principal.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Security.Principal.Windows.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Security.SecureString.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.ServiceModel.Web.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.ServiceProcess.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Text.Encoding.CodePages.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Text.Encoding.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Text.Encoding.Extensions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Text.RegularExpressions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Threading.Channels.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Threading.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Threading.Overlapped.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Threading.Tasks.Dataflow.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Threading.Tasks.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Threading.Tasks.Extensions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Threading.Tasks.Parallel.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Threading.Thread.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Threading.ThreadPool.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Threading.Timer.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Transactions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Transactions.Local.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.ValueTuple.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Web.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Web.HttpUtility.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Windows.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Xml.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Xml.Linq.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Xml.ReaderWriter.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Xml.Serialization.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Xml.XDocument.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Xml.XmlDocument.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Xml.XmlSerializer.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Xml.XPath.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Xml.XPath.XDocument.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/WindowsBase.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/CsvHelper.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/LumenWorks.Framework.IO.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/System.Text.Json.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/linux-x64/native/libsqlite3.so
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/osx-x64/native/libsqlite3.dylib
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/win7-x64/native/sqlite3.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/win7-x86/native/sqlite3.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/alpine-arm/native/libe_sqlite3.so
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/browser-wasm/nativeassets/net6.0/e_sqlite3.a
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/obj/Debug/net6.0/AnalysisTool.csproj.AssemblyReference.cache
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/obj/Debug/net6.0/AnalysisTool.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/obj/Debug/net6.0/AnalysisTool.AssemblyInfoInputs.cache
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/obj/Debug/net6.0/AnalysisTool.AssemblyInfo.cs
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/obj/Debug/net6.0/AnalysisTool.csproj.CoreCompileInputs.cache
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/obj/Debug/net6.0/AnalysisTool.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/obj/Debug/net6.0/AnalysisTool.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/obj/Debug/net6.0/AnalysisTool.RazorAssemblyInfo.cache
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/obj/Debug/net6.0/AnalysisTool.RazorAssemblyInfo.cs
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/obj/Debug/net6.0/staticwebassets/msbuild.AnalysisTool.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/obj/Debug/net6.0/staticwebassets/msbuild.build.AnalysisTool.props
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.AnalysisTool.props
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.AnalysisTool.props
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/obj/Debug/net6.0/scopedcss/bundle/AnalysisTool.styles.css
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/obj/Debug/net6.0/AnalysisTool.csproj.CopyComplete
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/obj/Debug/net6.0/AnalysisTool.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/obj/Debug/net6.0/refint/AnalysisTool.dll
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/obj/Debug/net6.0/AnalysisTool.pdb
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/obj/Debug/net6.0/AnalysisTool.genruntimeconfig.cache
+C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/obj/Debug/net6.0/ref/AnalysisTool.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/appsettings.Development.json
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/appsettings.json
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/AnalysisTool.staticwebassets.runtime.json
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/AnalysisTool
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/AnalysisTool.deps.json
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/AnalysisTool.runtimeconfig.json
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/AnalysisTool.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/AnalysisTool.pdb
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authorization.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Server.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Web.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cors.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Features.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Results.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpLogging.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Identity.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Localization.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Metadata.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Razor.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Rewrite.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Routing.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Session.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.WebSockets.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.CSharp.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Json.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Features.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Hosting.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Http.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Identity.Core.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Identity.Stores.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Localization.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Console.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Debug.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.ObjectPool.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Extensions.WebEncoders.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.JSInterop.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Net.Http.Headers.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.VisualBasic.Core.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.VisualBasic.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Win32.Primitives.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/Microsoft.Win32.Registry.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/mscorlib.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/netstandard.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.AppContext.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Buffers.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Collections.Concurrent.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Collections.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Collections.Immutable.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Collections.NonGeneric.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Collections.Specialized.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.ComponentModel.Annotations.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.ComponentModel.DataAnnotations.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.ComponentModel.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.ComponentModel.EventBasedAsync.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.ComponentModel.Primitives.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.ComponentModel.TypeConverter.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Configuration.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Console.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Core.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Data.Common.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Data.DataSetExtensions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Data.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Diagnostics.Contracts.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Diagnostics.Debug.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Diagnostics.DiagnosticSource.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Diagnostics.EventLog.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Diagnostics.FileVersionInfo.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Diagnostics.Process.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Diagnostics.StackTrace.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Diagnostics.Tools.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Diagnostics.TraceSource.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Diagnostics.Tracing.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Drawing.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Drawing.Primitives.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Dynamic.Runtime.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Formats.Asn1.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Globalization.Calendars.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Globalization.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Globalization.Extensions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.IO.Compression.Brotli.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.IO.Compression.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.IO.Compression.FileSystem.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.IO.Compression.ZipFile.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.IO.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.IO.FileSystem.AccessControl.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.IO.FileSystem.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.IO.FileSystem.DriveInfo.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.IO.FileSystem.Primitives.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.IO.FileSystem.Watcher.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.IO.IsolatedStorage.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.IO.MemoryMappedFiles.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.IO.Pipelines.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.IO.Pipes.AccessControl.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.IO.Pipes.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.IO.UnmanagedMemoryStream.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Linq.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Linq.Expressions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Linq.Parallel.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Linq.Queryable.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Memory.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.Http.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.Http.Json.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.HttpListener.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.Mail.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.NameResolution.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.NetworkInformation.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.Ping.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.Primitives.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.Requests.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.Security.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.ServicePoint.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.Sockets.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.WebClient.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.WebHeaderCollection.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.WebProxy.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.WebSockets.Client.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Net.WebSockets.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Numerics.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Numerics.Vectors.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.ObjectModel.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Reflection.DispatchProxy.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Reflection.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Reflection.Emit.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Reflection.Emit.ILGeneration.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Reflection.Emit.Lightweight.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Reflection.Extensions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Reflection.Metadata.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Reflection.Primitives.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Reflection.TypeExtensions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Resources.Reader.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Resources.ResourceManager.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Resources.Writer.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Runtime.CompilerServices.VisualC.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Runtime.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Runtime.Extensions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Runtime.Handles.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Runtime.InteropServices.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Runtime.Intrinsics.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Runtime.Loader.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Runtime.Numerics.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Runtime.Serialization.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Runtime.Serialization.Formatters.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Runtime.Serialization.Json.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Runtime.Serialization.Primitives.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Runtime.Serialization.Xml.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Security.AccessControl.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Security.Claims.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Security.Cryptography.Algorithms.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Security.Cryptography.Cng.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Security.Cryptography.Csp.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Security.Cryptography.Encoding.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Security.Cryptography.OpenSsl.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Security.Cryptography.Primitives.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Security.Cryptography.X509Certificates.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Security.Cryptography.Xml.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Security.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Security.Principal.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Security.Principal.Windows.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Security.SecureString.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.ServiceModel.Web.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.ServiceProcess.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Text.Encoding.CodePages.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Text.Encoding.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Text.Encoding.Extensions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Text.RegularExpressions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Threading.Channels.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Threading.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Threading.Overlapped.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Threading.Tasks.Dataflow.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Threading.Tasks.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Threading.Tasks.Extensions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Threading.Tasks.Parallel.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Threading.Thread.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Threading.ThreadPool.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Threading.Timer.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Transactions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Transactions.Local.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.ValueTuple.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Web.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Web.HttpUtility.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Windows.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Xml.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Xml.Linq.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Xml.ReaderWriter.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Xml.Serialization.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Xml.XDocument.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Xml.XmlDocument.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Xml.XmlSerializer.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Xml.XPath.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/System.Xml.XPath.XDocument.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/refs/WindowsBase.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/CsvHelper.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/LumenWorks.Framework.IO.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/System.Text.Json.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/linux-x64/native/libsqlite3.so
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/osx-x64/native/libsqlite3.dylib
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/win7-x64/native/sqlite3.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/win7-x86/native/sqlite3.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/browser-wasm/nativeassets/net6.0/e_sqlite3.a
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/obj/Debug/net6.0/AnalysisTool.csproj.AssemblyReference.cache
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/obj/Debug/net6.0/AnalysisTool.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/obj/Debug/net6.0/AnalysisTool.AssemblyInfoInputs.cache
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/obj/Debug/net6.0/AnalysisTool.AssemblyInfo.cs
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/obj/Debug/net6.0/AnalysisTool.csproj.CoreCompileInputs.cache
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/obj/Debug/net6.0/AnalysisTool.MvcApplicationPartsAssemblyInfo.cs
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/obj/Debug/net6.0/AnalysisTool.MvcApplicationPartsAssemblyInfo.cache
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/obj/Debug/net6.0/AnalysisTool.RazorAssemblyInfo.cache
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/obj/Debug/net6.0/AnalysisTool.RazorAssemblyInfo.cs
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/obj/Debug/net6.0/staticwebassets/msbuild.AnalysisTool.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/obj/Debug/net6.0/staticwebassets/msbuild.build.AnalysisTool.props
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.AnalysisTool.props
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.AnalysisTool.props
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/obj/Debug/net6.0/staticwebassets.build.json
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/obj/Debug/net6.0/staticwebassets.development.json
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/obj/Debug/net6.0/scopedcss/bundle/AnalysisTool.styles.css
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/obj/Debug/net6.0/AnalysisTool.csproj.CopyComplete
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/obj/Debug/net6.0/AnalysisTool.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/obj/Debug/net6.0/refint/AnalysisTool.dll
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/obj/Debug/net6.0/AnalysisTool.pdb
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/obj/Debug/net6.0/AnalysisTool.genruntimeconfig.cache
+/Users/jsorensen/Documents/L-oldProjects/AnalysisTool/AnalysisTool/obj/Debug/net6.0/ref/AnalysisTool.dll

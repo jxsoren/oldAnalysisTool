@@ -1,0 +1,53 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model RatesInputForm
+<div class="loader" id="loadingScreen" hidden></div>
+<form enctype="multipart/form-data" id="form" asp-action="GetRates" asp-controller="Home" method="post">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6">
+                <label class="text-body" asp-for="customer">Customer name</label>
+                <input asp-for="customer" placeholder="" required type="text" class="form-control" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+                <label class="text-body" asp-for="apiKey">API key</label>
+                <textarea asp-for="apiKey" placeholder="" required class="form-control" rows="5">
+                </textarea>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-3">
+                <label class="form-label" asp-for="maxWeight">Max weight</label>
+                <input asp-for="maxWeight" placeholder="" required type="number" class="form-control" />
+            </div>
+            <div class="col-sm-3">
+                <label class="form-label" asp-for="carrier">Carrier</label>
+                <select asp-for="carrier" placeholder="" required class="form-control">
+                    <option value="fed_ex">FedEx</option>
+                    <option value="ups">UPS</option>
+                    <option value="dhl_ecommerce">DHL eCommerce</option>
+                </select>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-6">
+                <input type="submit" class="w-100 btn btn-primary btn-lg" />
+            </div>
+        </div>
+    </div>
+</form>
+
+<script>
+    const form = document.getElementById('form');
+    const loadingScreen = document.getElementById('loadingScreen');
+
+    form.onsubmit = submit;
+
+    function submit() {
+        form.setAttribute('hidden', '');
+        loadingScreen.removeAttribute('hidden');
+    }</script>

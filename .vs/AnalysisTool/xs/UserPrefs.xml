@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{96F25E0F-2F6C-4471-8A3E-A017AD100A0D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AnalysisTool/Properties/launchSettings.json">
+    <Files>
+      <File FileName="AnalysisTool/Views/Home/Summary.cshtml" Line="104" Column="1" />
+      <File FileName="AnalysisTool/Controllers/HomeController.cs" Line="58" Column="80" />
+      <File FileName="AnalysisTool/Models/WeightsModel.cs" />
+      <File FileName="AnalysisTool/Controllers/DataController.cs" Line="304" Column="1" />
+      <File FileName="AnalysisTool/Views/Home/Index.cshtml" Line="25" Column="83" />
+      <File FileName="AnalysisTool/Views/Home/Privacy.cshtml" />
+      <File FileName="AnalysisTool/Views/Shared/_Layout.cshtml" />
+      <File FileName="AnalysisTool/Program.cs" Line="31" Column="1" />
+      <File FileName="AnalysisTool/Startup.cs" Line="43" Column="1" />
+      <File FileName="AnalysisTool/Models/DataModel.cs" Line="25" Column="38" />
+      <File FileName="AnalysisTool/Properties/launchSettings.json" Line="23" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AnalysisTool" expanded="True">
+            <Node name="AnalysisTool" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="DataController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AnalysisTool PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

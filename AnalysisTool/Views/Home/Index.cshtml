@@ -1,0 +1,224 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@{
+    ViewBag.Title = "UploadFile";
+}
+
+<h1>Analysis Tool</h1>
+
+
+@model AnalysisTool.Models.FormDataModel
+<div class="loader" id="loadingScreen" hidden></div>
+<form enctype="multipart/form-data" id="form" asp-action="Summary" asp-controller="Home" method="post">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6">
+                <label class="form-label" asp-for="dataFile">Data File</label>
+                <input type="file" asp-for="dataFile" placeholder="" required class="form-control-file" />
+            </div>
+            <div class="col-sm-6">
+                <label class="form-label" asp-for="customerId">Customer Identifier</label>
+                <input asp-for="customerId" placeholder="" required type="text" class="form-control"  />
+            </div>
+        </div>
+        <div class="row darken">
+            <div class="col-md-4">
+                <label class="form-label" asp-for="uspsFCDiscountPercent">USPS First Class discount percent</label>
+                <input asp-for="uspsFCDiscountPercent" placeholder="" value="0.0" required max="1" min="0" type="number" class="form-control" step=".001"/>
+            </div>
+            <div class="col-md-4">
+                <label class="form-label" asp-for="uspsPMDiscountPercent">USPS Priority Mail discount percent</label>
+                <input asp-for="uspsPMDiscountPercent" placeholder="" value="0.0" required max="1" min="0" type="number" class="form-control" step=".001" />
+            </div>
+            <div class="col-md-4">
+                <label class="form-label" asp-for="uspsPSDiscountPercent">USPS Parcel Select discount percent</label>
+                <input asp-for="uspsPSDiscountPercent" placeholder="" value="0.0" required max="1" min="0" type="number" class="form-control" step=".001" />
+            </div>
+        </div>
+        <div class="row darken">
+            <div class="col-md-4">
+                <label class="form-label" asp-for="uspsCanadaDiscountPercent">USPS Canada discount percent</label>
+                <input asp-for="uspsCanadaDiscountPercent" placeholder="" value=".10" required max="1" min="0" type="number" class="form-control" step=".001" />
+            </div>
+            <div class="col-md-4">
+                <label class="form-label" asp-for="uspsIntDiscountPercent">USPS International discount percent</label>
+                <input asp-for="uspsIntDiscountPercent" placeholder="" value=".05" required max="1" min="0" type="number" class="form-control" step=".001" />
+            </div>
+            <div class="col-md-4">
+                <label class="form-label" asp-for="uspsDim">USPS Dim</label>
+                <input asp-for="uspsDim" placeholder="" value="166" type="number" class="form-control" required />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+                <label class="form-label" asp-for="fedexDim">FedEx Dim</label>
+                <input asp-for="fedexDim" placeholder="" value="194" type="number" class="form-control" required />
+            </div>
+            <div class="col-sm-6">
+                <label class="form-label" asp-for="fedexGeneralMarkupPercent">FedEx general markup percent</label>
+                <input asp-for="fedexGeneralMarkupPercent" placeholder="" value=".11" max="1" min="0" type="number" class="form-control" step=".001" />
+                <button type="button" class="collapsible btn-success">Individual FedEx services</button>
+                <div class="content" style="display:none">
+                <p>
+                <label class="form-label" asp-for="fedexPOMarkupPercent">FedEx Priority Overnight markup percent</label>
+                <input asp-for="fedexPOMarkupPercent" max="1" min="0" type="number" class="form-control" step=".001" />
+                <br />
+                <label class="form-label" asp-for="fedexSOMarkupPercent">FedEx Standard Overnight markup percent</label>
+                <input asp-for="fedexSOMarkupPercent" max="1" min="0" type="number" class="form-control" step=".001" />
+                <br />
+                <label class="form-label" asp-for="fedexTDAMarkupPercent">FedEx 2 Day AM markup percent</label>
+                <input asp-for="fedexTDAMarkupPercent" max="1" min="0" type="number" class="form-control" step=".001" />
+                <br />
+                <label class="form-label" asp-for="fedexTDMarkupPercent">FedEx 2 Day markup percent</label>
+                <input asp-for="fedexTDMarkupPercent" max="1" min="0" type="number" class="form-control" step=".001" />
+                <br />
+                <label class="form-label" asp-for="fedexESMarkupPercent">FedEx Express Saver markup percent</label>
+                <input asp-for="fedexESMarkupPercent" max="1" min="0" type="number" class="form-control" step=".001" />
+                <br />
+                <label class="form-label" asp-for="fedexGMarkupPercent">FedEx Ground markup percent</label>
+                <input asp-for="fedexGMarkupPercent" max="1" min="0" type="number" class="form-control" step=".001" />
+                <br />
+                <label class="form-label" asp-for="fedexGHMarkupPercent">FedEx Ground Home markup percent</label>
+                <input asp-for="fedexGHMarkupPercent" max="1" min="0" type="number" class="form-control" step=".001" />
+                <br />
+                </p>
+                </div>
+            </div>
+        </div>
+        <div class="row darken">
+            <div class="col-sm-6">
+                <label class="form-label" asp-for="upsGeneralMarkupPercent">UPS general markup percent</label>
+                <input asp-for="upsGeneralMarkupPercent" placeholder="" value=".11" max="1" min="0" type="number" class="form-control" step=".001" />
+                <button type="button" class="collapsible btn-success">Individual UPS services</button>
+                <div class="content" style="display:none">
+                <p>
+                <label class="form-label" asp-for="upsNDAMarkupPercent">UPS Next Day Air markup percent</label>
+                <input asp-for="upsNDAMarkupPercent" max="1" min="0" type="number" class="form-control" step=".001" />
+                <br />
+                <label class="form-label" asp-for="upsNDASMarkupPercent">UPS Next Day Air Saver markup percent</label>
+                <input asp-for="upsNDASMarkupPercent" max="1" min="0" type="number" class="form-control" step=".001" />
+                <br />
+                <label class="form-label" asp-for="upsSDAMarkupPercent">UPS 2nd Day Air markup percent</label>
+                <input asp-for="upsSDAMarkupPercent" max="1" min="0" type="number" class="form-control" step=".001" />
+                <br />
+                <label class="form-label" asp-for="upsTDSMarkupPercent">UPS 3 Day Saver markup percent</label>
+                <input asp-for="upsTDSMarkupPercent" max="1" min="0" type="number" class="form-control" step=".001" />
+                <br />
+                <label class="form-label" asp-for="upsGMarkupPercent">UPS Ground markup percent</label>
+                <input asp-for="upsGMarkupPercent" max="1" min="0" type="number" class="form-control" step=".001" />
+                <br />
+                </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+                <label class="form-label" asp-for="osmPSLWMarkupPercent">OSM PS lightweight markup percent</label>
+                <input asp-for="osmPSLWMarkupPercent" placeholder="" value=".10" required max="1" min="0" type="number" class="form-control" step=".001" />
+            </div>
+            <div class="col-sm-6">
+                <label class="form-label" asp-for="osmPSHWMarkupPercent">OSM PS heavyweight markup percent</label>
+                <input asp-for="osmPSHWMarkupPercent" placeholder="" value=".10" required max="1" min="0" type="number" class="form-control" step=".001" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+                <label class="form-label" asp-for="osmFuelSurcharge">OSM fuel surcharge percent</label>
+                <input asp-for="osmFuelSurcharge" placeholder="" value=".04" required max="1" min="0" type="number" class="form-control" step=".001" />
+            </div>
+            <div class="col-sm-6">
+                <input asp-for="osmMM" type="checkbox" class="form-check-input" />
+                <label class="form-label" asp-for="osmMM">Include OSM minimum margin</label>
+            </div>
+        </div>
+        <div class="row darken">
+            <div class="col-md-3">
+                <label class="form-label" asp-for="miPSLW1MarkupPercent">MI parcel select lightweight 1-4 oz markup percent</label>
+                <input asp-for="miPSLW1MarkupPercent" placeholder="" value=".04" required max="1" min="0" type="number" class="form-control" step=".001" />
+            </div>
+            <div class="col-md-3">
+                <label class="form-label" asp-for="miPSLW2MarkupPercent">MI parcel select lightweight 5-8 oz markup percent</label>
+                <input asp-for="miPSLW2MarkupPercent" placeholder="" value=".07" required max="1" min="0" type="number" class="form-control" step=".001" />
+            </div>
+            <div class="col-md-3">
+                <label class="form-label" asp-for="miPSLW3MarkupPercent">MI parcel select lightweight 9-12 oz markup percent</label>
+                <input asp-for="miPSLW3MarkupPercent" placeholder="" value=".12" required max="1" min="0" type="number" class="form-control" step=".001" />
+            </div>
+            <div class="col-md-3">
+                <label class="form-label" asp-for="miPSLW4MarkupPercent">MI parcel select lightweight 13-16 oz markup percent</label>
+                <input asp-for="miPSLW4MarkupPercent" placeholder="" value=".15" required max="1" min="0" type="number" class="form-control" step=".001" />
+            </div>
+        </div>
+        <div class="row darken">
+            <div class="col-md-4">
+                <label class="form-label" asp-for="miPSHWMarkupPercent">MI parcel select heavyweight markup percent</label>
+                <input asp-for="miPSHWMarkupPercent" placeholder="" value=".10" required max="1" min="0" type="number" class="form-control" step=".001" />
+            </div>
+            <div class="col-md-4">
+                <label class="form-label" asp-for="miFuelSurcharge">MI fuel surcharge percent</label>
+                <input asp-for="miFuelSurcharge" placeholder="" value=".065" required max="1" min="0" type="number" class="form-control" step=".001" />
+            </div>
+            <div class="col-md-4">
+                <input asp-for="miMM" type="checkbox" class="form-check-input" />
+                <label class="form-label" asp-for="miMM">Include MI minimum margin</label>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label class="form-label" asp-for="dhlGeneralMarkupPercent">DHL eCommerce general markup percent</label>
+                <input asp-for="dhlGeneralMarkupPercent" placeholder="" value=".11" max="1" min="0" type="number" class="form-control" step=".001" />
+                <button type="button" class="collapsible btn-success">Individual DHL eCommerce services</button>
+                <div class="content" style="display:none">
+                <p>
+                <label class="form-label" asp-for="dhlMAXMarkupPercent">DHL MAX markup percent</label>
+                <input asp-for="dhlMAXMarkupPercent" max="1" min="0" type="number" class="form-control" step=".001" />
+                <br />
+                <label class="form-label" asp-for="dhlExpMarkupPercent">DHL Expedited markup percent</label>
+                <input asp-for="dhlExpMarkupPercent" max="1" min="0" type="number" class="form-control" step=".001" />
+                <br />
+                <label class="form-label" asp-for="dhlExpPMarkupPercent">DHL Expedited Plus markup percent</label>
+                <input asp-for="dhlExpPMarkupPercent" max="1" min="0" type="number" class="form-control" step=".001" />
+                <br />
+                <label class="form-label" asp-for="dhlGroundMarkupPercent">DHL Ground markup percent</label>
+                <input asp-for="dhlGroundMarkupPercent" max="1" min="0" type="number" class="form-control" step=".001" />
+                <br />
+                <label class="form-label" asp-for="dhlGroundPMarkupPercent">DHL Ground Plus markup percent</label>
+                <input asp-for="dhlGroundPMarkupPercent" max="1" min="0" type="number" class="form-control" step=".001" />
+                <br />
+                </p>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <label class="form-label" asp-for="dhleFuelSurcharge">DHL fuel surcharge</label>
+                <input asp-for="dhleFuelSurcharge" placeholder="" value=".09" required max="1" min="0" type="number" class="form-control" step=".001" />
+            </div>
+            <div class="col-md-3">
+                <input asp-for="dhleMM" type="checkbox" class="form-check-input" />
+                <label class="form-label" asp-for="dhleMM">Include DHLe minimum margin</label>
+            </div>
+            <div class="col-md-3">
+                <label class="form-label" asp-for="dhlDim">DHLe Dim</label>
+                <input asp-for="dhlDim" placeholder="" value="166" type="number" class="form-control" required />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <input type="submit" class="w-100 btn btn-primary btn-lg" />
+            </div>
+        </div>
+    </div>
+</form>
+
+
+
+<script>const form = document.getElementById('form');
+    const loadingScreen = document.getElementById('loadingScreen');
+
+    form.onsubmit = submit;
+
+    function submit() {
+        form.setAttribute('hidden', '');
+        loadingScreen.removeAttribute('hidden');
+    }</script>

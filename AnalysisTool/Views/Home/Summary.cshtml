@@ -1,0 +1,277 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@*@model List<List<AnalysisTool.Models.AnalysisSummary>>*@
+
+<h1>@ViewBag.title Cost Savings Analysis</h1>
+
+<div id="statesMap"></div>
+<div id="countriesMap"></div>
+
+<div class="container" style="max-width:1000px;">
+    <div class="row">
+        @foreach (var i in ViewBag.summaries)
+        {
+            decimal k = 0;
+            int h = 0;
+            <div class="col">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th scope="col">Service</th>
+                            <th scope="col">Packages</th>
+                            <th scope="col">Cost</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var j in i)
+                        {
+                            <tr>
+                                <th>@j.service</th>
+                                <th>@j.packages</th>
+                                <th>$@j.cost</th>
+                            </tr>
+                            k += j.cost;
+                            h += j.packages;
+                        }
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <th>Totals</th>
+                            <th>@h</th>
+                            <th>$@k</th>
+                        </tr>
+                    </tfoot>
+                </table>
+            </div>
+
+        }
+    </div>
+    <div class="row" style="max-width:1000px">
+        <div class="col" id="statesContainer" style="height:400px;max-width:500px;"></div>
+        <div class="col" id="zonesContainer" style="height:400px;max-width:500px"></div>
+    </div>
+    <div class="row" style="max-width:1000px">
+        <div class="col-8" id="zonesCostContainer" style="height:400px;"></div>
+        <div class="col-4" id="zonesWeightContainer" style="height:400px;"></div>
+    </div>
+    <div class="row" style="max-width:1000px">
+        <div id="countriesContainer" style="height:0px;visibility:hidden"></div>
+    </div>
+</div>
+@foreach (var s in ViewBag.servicesSummary)
+{
+    <div class="container">
+        <header>@s.title</header>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Competitor Price</th>
+                    <th>Packages</th>
+                    <th>eHub Price</th>
+                    <th>Packages</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th>@s.currCost</th>
+                    <th>@s.currVolume</th>
+                    <th>@s.propCost</th>
+                    <th>@s.propVolume</th>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+}
+<p>@ViewBag.estAnnualCurrSpend - @ViewBag.estAnnualPropSpend</p>
+<p>@ViewBag.estAnnualSavings</p>
+<p>from @ViewBag.daysOfData days of customer data</p>
+<br />
+@foreach (var s in ViewBag.weights)
+{
+    <div class="container">
+        <table class="table">
+            <tbody>
+                <tr>
+                    <th>@s.range</th>
+                    <th>@s.count</th>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+}
+<br />
+
+@if (true)
+{
+    int under = 0;
+    int over = 0;
+
+    foreach (var s in ViewBag.weights)
+    {
+
+        if (s.range == "<1 lb")
+        {
+            under += s.count;
+        }
+        else
+        {
+            over += s.count;
+        }
+    }
+    <div class="container">
+        <table class="table">
+            <tbody>
+                <tr>
+                    <th>under 1 lb</th>
+                    <th>@under</th>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="container">
+        <table class="table">
+            <tbody>
+                <tr>
+                    <th>over 1 lb</th>
+                    <th>@over</th>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+}
+else
+{
+
+}
+
+
+
+<script type="text/javascript">
+    var arrayStates = @Html.Raw(@ViewBag.states);
+    var arrayCountries = @Html.Raw(@ViewBag.countries);
+    var arrayZones = @Html.Raw(@ViewBag.zones);
+    var arrayZonesCurrCost = @Html.Raw(ViewBag.zonesCurrCost);
+    var arrayZonesPropCost = @Html.Raw(ViewBag.zonesPropCost);
+
+    anychart.onDocumentReady(function () {
+
+        var usaMap = anychart.map();
+
+        usaMap.geoData(anychart.maps.united_states_of_america);
+
+        var usaSeries = usaMap.choropleth(arrayStates);
+
+        usaSeries.colorScale(
+            anychart.scales.linearColor(
+                '#c2e9fb',
+                '#81d4fa',
+                '#01579b',
+                '#002746'
+            )
+        );
+
+        var usaTitle = usaMap.title();
+
+        usaTitle.enabled(true);
+
+        usaTitle.text("Packages per State");
+
+        var colorRange = usaMap.colorRange();
+        colorRange.enabled(true);
+
+        @*usaSeries.labels().enabled(true).fontSize(10).fontColor('#212121').format('{%Value}');*@
+
+        usaMap.container("statesContainer");
+
+        usaMap.draw();
+
+
+
+
+        @*var zonesDataSet = anychart.data.set(arrayZones);*@
+
+        var zones = anychart.column();
+
+        var zonesSeries = zones.column(arrayZones);
+
+        zonesSeries.labels().enabled(true).fontSize(12).fontColor('#212121').format('{%Value}');
+
+        var yTitle = zones.yAxis().title();
+        yTitle.enabled(true);
+        yTitle.text("Number of Packages");
+
+        zones.yScale().ticks().allowFractional(false);
+
+        zones.xAxis().title("USPS Domestic Zones");
+
+        zones.container("zonesContainer");
+
+        zones.draw();
+
+
+        @*var zonesCCDataSet = anychart.data.set(arrayZonesCurrCost);*@
+
+        var zonesSpend = anychart.column();
+
+
+
+        var zonesCurrSpendSeries = zonesSpend.column(arrayZonesCurrCost);
+        var zonesPropSpendSeries = zonesSpend.column(arrayZonesPropCost);
+
+        zonesCurrSpendSeries.labels().enabled(true).fontSize(12).fontColor('#212121').format('{%Value}');
+        zonesPropSpendSeries.labels().enabled(true).fontSize(12).fontColor('#212121').format('{%Value}');
+
+        var yTitle = zonesSpend.yAxis().title();
+        yTitle.enabled(true);
+        yTitle.text("Cost of Shipments");
+
+        zonesSpend.yScale().ticks().allowFractional(false);
+
+        zonesSpend.xAxis().title("USPS Domestic Zones");
+
+        zonesSpend.container("zonesCostContainer");
+
+        zonesSpend.draw();
+
+
+        if (arrayCountries.length > 1) {
+            document.getElementById("countriesContainer").style.visibility = "visible";
+            document.getElementById("countriesContainer").style.height = "400px";
+
+            var worldMap = anychart.map();
+
+            worldMap.geoData(anychart.maps['world']);
+
+            var worldSeries = worldMap.choropleth(arrayCountries);
+
+            worldSeries.geoIdField('id');
+
+            worldSeries.colorScale(
+                anychart.scales.linearColor(
+                    '#c2e9fb',
+                    '#81d4fa',
+                    '#01579b',
+                    '#002746'
+                )
+            );
+
+            @*worldSeries.labels().enabled(true).fontSize(10).fontColor('#212121').format('{%Value}');*@
+
+            worldMap.container("countriesContainer");
+
+            worldMap.draw();
+        }
+    });
+</script>
+
+<script>
+    console.log(@ViewBag.totalCurrCost);
+    console.log(@ViewBag.totalPropCost);
+    console.log(@ViewBag.estAnnualCurrSpend);
+    console.log(@ViewBag.estAnnualPropSpend);
+    console.log(@ViewBag.percentSavings);
+    console.log(@Html.Raw(@ViewBag.weights));
+    console.log(@Html.Raw(@ViewBag.carriersSummary));
+</script>

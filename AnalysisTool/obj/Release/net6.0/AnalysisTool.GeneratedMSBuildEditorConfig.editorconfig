@@ -1,0 +1,57 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AnalysisTool
+build_property.RootNamespace = AnalysisTool
+build_property.ProjectDir = C:\Users\analyst7\source\repos\Analysis Tool MkII\AnalysisTool\AnalysisTool\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\analyst7\source\repos\Analysis Tool MkII\AnalysisTool\AnalysisTool
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/Views/Home/DHL.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxESEwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/Views/Home/Rates.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSYXRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/Views/Home/Summary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdW1tYXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/analyst7/source/repos/Analysis Tool MkII/AnalysisTool/AnalysisTool/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
